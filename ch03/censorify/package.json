@@ -1,10 +1,19 @@
  {
- 	"author": "Brad Dayley",
+ 	"author": "Benny Huang",
  	"name": "censorify",
  	"version": "0.1.1",
  	"description": "Censors words out of text",
  	"main": "censortext",
  	"dependencies": {},
+ 	"repository":{
+ 		"type": "git",
+ 		"url": "https://github.com/BennyHuang/nodebook/tree/master/ch03/censorify"
+ 	},
+ 	"keywords": [
+ 		"BennyHuang",
+ 		"censor",
+ 		"words"
+ 	],
  	"engines": {
  		"node": "*"
  	}
